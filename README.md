@@ -22,7 +22,7 @@ Example:doh = Arrays.copyOf(names,10);
 
 Arrays are good data structures for simplistic things. Things that you just need a place to put your data that you aren't going to modify or move around. If you need to modify, move data around or do other things then I would suggest a different data structure like an ArrayList. 
 
-#ArrayLists
+# ArrayLists
 Array lists are like arrays but they give you a ton more options and its a lot easier to control over your data. I'm sure in the bowls of Java ArrayLists are just arrays and they are doing all the work for you behind the scenes. 
 
 You first need a library for ArrayLists. import java.util.ArrayList; If you are in VS code you can put that line in and then hit F12 and it will bring you to the class definition so you can see how they implemented the various functions of ArrayList. 
